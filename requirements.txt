@@ -5,3 +5,5 @@ tgbot-ping
 redis
 apscheduler
 pymongo
+tornado
+cryptography
